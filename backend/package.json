@@ -2,9 +2,9 @@
   "name": "URL-Shortener",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
-    "dev":"nodemon server.js"
+    "dev":"nodemon src/app.js"
   },
   "keywords": [],
   "author": "",
