@@ -1,9 +1,5 @@
-import React from 'react'
+import UrlShortener from './components/UrlShortener';
+import "./App.css";
+const App = () => <UrlShortener />;
 
-const App = () => {
-  return (
-    <div>App</div>
-  )
-}
-
-export default App
+export default App;
